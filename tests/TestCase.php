@@ -4,8 +4,8 @@ declare(strict_types=1);
 
 namespace Simtabi\Laranail\Ichava\IconSetsPhosphor\Tests;
 
-use Simtabi\Laranail\Ichava\IconSetsPhosphor\Providers\IconsServiceProvider;
 use Simtabi\Laranail\Ichava\Testing\PackTestCase;
+use Simtabi\Laranail\Ichava\IconSetsPhosphor\Providers\IconsServiceProvider;
 
 /**
  * Boots core and this pack, on the database `DB_CONNECTION` names and a
